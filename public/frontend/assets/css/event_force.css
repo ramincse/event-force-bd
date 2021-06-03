@@ -1,0 +1,10 @@
+@font-face {
+    src: url('frontend/assets/fonts/event_force/Beaufort Extended.ttf');
+    font-family: beaufort;
+}
+
+h1, h2, h3, h4, h5 ,h6{ font-family: beaufort !important; text-transform: uppercase !important;}
+
+.navbar .navbar-nav li .nav-link { font-size: 16px !important;}
+
+h2 { font-size: 20px; }
